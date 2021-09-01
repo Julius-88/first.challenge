@@ -1,0 +1,9 @@
+/*No idea what the background color should be to match the picture. Lavender is the closest one I can think of.*/
+body{
+    background-image: url("/images/pattern-background-desktop.svg");
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:lavender;
+}
