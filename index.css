@@ -1,4 +1,3 @@
-/*No idea what the background color should be to match the picture. Lavender is the closest one I can think of.*/
 body{
     background-image: url("/images/pattern-background-desktop.svg");
     background-position: center;
@@ -6,4 +5,26 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color:lavender;
+}
+
+.title{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title2{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0%;
+    text-align: center;
+    width: 100%;  
 }
